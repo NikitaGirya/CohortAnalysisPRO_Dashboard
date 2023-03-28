@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89247751/228286686-2dcc3a44-dab0-4f52-b872-6f161375a729.png" width=700 height=350 /> </br>
+  <img src="https://user-images.githubusercontent.com/89247751/228286686-2dcc3a44-dab0-4f52-b872-6f161375a729.png" width=700 height=400 /> </br>
   Вкладка "Retention"
 </p>
 
@@ -20,7 +20,7 @@
 Также на странице "Вклад когорт в товарооборот по месяцам" доступны метрики товарооборота и количества клиентов в разрезе когорт, по данным графикам можно определить каким количеством клиентов какую долю товарооборота генерируют клиенты в определенный месяц
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89247751/228288583-650cb0b9-8091-45fe-9da0-ed71d8c2372b.png" width=700 height=350 /> </br>
+  <img src="https://user-images.githubusercontent.com/89247751/228288583-650cb0b9-8091-45fe-9da0-ed71d8c2372b.png" width=700 height=400 /> </br>
   Вкладка "Вклад когорт в товарооборот по месяцам"
 </p>
 
